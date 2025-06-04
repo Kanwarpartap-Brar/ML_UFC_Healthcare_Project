@@ -4,7 +4,7 @@ By: Kanwarpartap Brar
 
 --------------------------------------------------------------------------------------
 Overview:
-This project values 8 machine learning models on 2 datasets:
+This project evaluates 8 machine learning models on 2 datasets:
 - UFC Fight Dataset (Binary Classification)
 - Healthcare Dataset (Multi-class Classification)
 
